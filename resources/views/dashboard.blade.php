@@ -11,11 +11,9 @@
             <div class="w-3\/4 bg-gray-500">
                 <nav>
                     <li class="list-none"> <a class="p-2 block" href="#"> Clients </a> </li>
-                    <li class="list-none"> <a class="p-2 block" href="#"> Clients </a> </li>
-                    <li class="list-none"> <a class="p-2 block" href="#"> Clients </a> </li>
-                    <li class="list-none"> <a class="p-2 block" href="#"> Clients </a> </li>
-                    <li class="list-none"> <a class="p-2 block" href="#"> Clients </a> </li>
-                    
+                    <li class="list-none"> <a class="p-2 block" href="#"> Income </a> </li>
+                    <li class="list-none"> <a class="p-2 block" href="#"> Spend </a> </li>
+                    <li class="list-none"> <a class="p-2 block" href="#"> Contact </a> </li>
                 </nav>
             </div>
             <div class="w-5/6">
